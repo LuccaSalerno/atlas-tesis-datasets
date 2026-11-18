@@ -1,0 +1,165 @@
+{
+  "id": "surdelta",
+  "uso": "Demostración (videos y defensa). No acredita EVD-01 ni métricas de §6.3.",
+  "documentos": {
+    "SD-C1": {
+      "archivo": "SD-C1_Contrato_Mantenimiento_Planta.pdf",
+      "tipo_documental": "contrato",
+      "paginas": 10,
+      "campos": {
+        "contraparte": "Andes Sistemas S.A.",
+        "cuit_contraparte": "30-96472518-3",
+        "fecha_celebracion": "2026-09-15",
+        "vigencia_desde": "2026-10-01",
+        "vigencia_hasta": "2027-09-30",
+        "monto_total": "96000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-O1": {
+      "archivo": "SD-O1_Orden_Compra_OC-2026-118.pdf",
+      "tipo_documental": "orden_compra",
+      "paginas": 1,
+      "campos": {
+        "numero": "OC-2026-118",
+        "fecha": "2026-09-25",
+        "proveedor": "Andes Sistemas S.A.",
+        "cuit_proveedor": "30-96472518-3",
+        "importe_total": "8000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-F1": {
+      "archivo": "SD-F1_Factura_0004-00001248.pdf",
+      "tipo_documental": "factura",
+      "paginas": 1,
+      "campos": {
+        "numero": "0004-00001248",
+        "fecha_emision": "2026-10-31",
+        "emisor": "Andes Sistemas S.A.",
+        "cuit_emisor": "30-96472518-3",
+        "importe_total": "9200000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-F2": {
+      "archivo": "SD-F2_Factura_0004-00001263.pdf",
+      "tipo_documental": "factura",
+      "paginas": 1,
+      "campos": {
+        "numero": "0004-00001263",
+        "fecha_emision": "2026-11-05",
+        "emisor": "Andes Sistemas S.A.",
+        "cuit_emisor": "30-96472518-3",
+        "importe_total": "8000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-P2": {
+      "archivo": "SD-P2_Presupuesto_PRE-0457.pdf",
+      "tipo_documental": "presupuesto",
+      "paginas": 1,
+      "campos": {
+        "numero": "PRE-0457",
+        "fecha": "2026-10-12",
+        "proveedor": "Distribuidora Equipar S.A.",
+        "cuit_proveedor": "30-98641015-1",
+        "importe_total": "14500000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-O2": {
+      "archivo": "SD-O2_Orden_Compra_OC-2026-131.pdf",
+      "tipo_documental": "orden_compra",
+      "paginas": 1,
+      "campos": {
+        "numero": "OC-2026-131",
+        "fecha": "2026-10-20",
+        "proveedor": "Distribuidora Equipar S.A.",
+        "cuit_proveedor": "30-98641015-1",
+        "importe_total": "14500000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-F3": {
+      "archivo": "SD-F3_Factura_0002-00000519.pdf",
+      "tipo_documental": "factura",
+      "paginas": 1,
+      "campos": {
+        "numero": "0002-00000519",
+        "fecha_emision": "2026-10-28",
+        "emisor": "Horizonte Servicios S.R.L.",
+        "cuit_emisor": "30-98641014-3",
+        "importe_total": "14500000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-C3": {
+      "archivo": "SD-C3_Contrato_Soporte_Informatico.pdf",
+      "tipo_documental": "contrato",
+      "paginas": 1,
+      "campos": {
+        "contraparte": "Nube Austral Tecnología S.R.L.",
+        "cuit_contraparte": "30-98641017-8",
+        "fecha_celebracion": "2026-10-30",
+        "vigencia_desde": "2026-12-01",
+        "vigencia_hasta": "2027-11-30",
+        "monto_total": "18000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-P3": {
+      "archivo": "SD-P3_Presupuesto_PRE-NA-0112.pdf",
+      "tipo_documental": "presupuesto",
+      "paginas": 1,
+      "campos": {
+        "numero": "PRE-NA-0112",
+        "fecha": "2026-10-20",
+        "proveedor": "Nube Austral Tecnología S.R.L.",
+        "cuit_proveedor": "30-98641017-8",
+        "importe_total": "18000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-C4": {
+      "archivo": "SD-C4_Contrato_Provision_Acero.pdf",
+      "tipo_documental": "contrato",
+      "paginas": 2,
+      "campos": {
+        "contraparte": "Aceros Cuatro Vientos S.A.",
+        "cuit_contraparte": "30-98641018-6",
+        "fecha_celebracion": "2026-07-20",
+        "vigencia_desde": "2026-08-01",
+        "vigencia_hasta": "2027-07-31",
+        "monto_total": "54000000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-O4": {
+      "archivo": "SD-O4_Orden_Compra_OC-2026-112.pdf",
+      "tipo_documental": "orden_compra",
+      "paginas": 1,
+      "campos": {
+        "numero": "OC-2026-112",
+        "fecha": "2026-10-02",
+        "proveedor": "Aceros Cuatro Vientos S.A.",
+        "cuit_proveedor": "30-98641018-6",
+        "importe_total": "4500000.00",
+        "moneda": "ARS"
+      }
+    },
+    "SD-F4": {
+      "archivo": "SD-F4_Factura_0003-00000871.pdf",
+      "tipo_documental": "factura",
+      "paginas": 1,
+      "campos": {
+        "numero": "0003-00000871",
+        "fecha_emision": "2026-10-16",
+        "emisor": "Aceros Cuatro Vientos S.A.",
+        "cuit_emisor": "30-98641018-6",
+        "importe_total": "4500000.00",
+        "moneda": "ARS"
+      }
+    }
+  }
+}

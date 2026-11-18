@@ -1,0 +1,5755 @@
+{
+  "campos": [
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Mantenimiento Integral Pampa Alta S.R.L.",
+      "valor_esperado": "Mantenimiento Integral Pampa Alta S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641006-2",
+      "valor_esperado": "30-98641006-2"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Fecha de celebración",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "11/01/2026",
+      "valor_esperado": "2026-01-11"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Inicio de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "21/01/2026",
+      "valor_esperado": "2026-01-21"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Fin de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "20/01/2027",
+      "valor_esperado": "2027-01-20"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Precio total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "13.024.464,79",
+      "valor_esperado": "13024464.79"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410038",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Celebrado el:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "17-02-2026",
+      "valor_esperado": "2026-02-17"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Inicio de vigencia:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "22-02-2026",
+      "valor_esperado": "2026-02-22"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Finalización:",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "21-02-2027",
+      "valor_esperado": "2027-02-21"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 85.189,92",
+      "valor_esperado": "85189.92"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-02",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Laboratorios Ensayar Tandil S.A.",
+      "valor_esperado": "Laboratorios Ensayar Tandil S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "CUIT del prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641007-0",
+      "valor_esperado": "30-98641007-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Fecha de celebración:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "11/08/2026",
+      "valor_esperado": "2026-08-11"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Inicio de vigencia:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "11/08/2026",
+      "valor_esperado": "2026-08-11"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Fin de vigencia:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "10/02/2027",
+      "valor_esperado": "2027-02-10"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Precio total:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "10.697.817,75",
+      "valor_esperado": "10697817.75"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-03",
+      "etiqueta": "Moneda:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Soluciones Instrumentales Río Dulce S.R.L.",
+      "valor_esperado": "Soluciones Instrumentales Río Dulce S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410089",
+      "valor_esperado": "30-98641008-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Celebrado el:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "22-03-2026",
+      "valor_esperado": "2026-03-22"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Inicio de vigencia:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "22-03-2026",
+      "valor_esperado": "2026-03-22"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Finalización:",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "21-03-2027",
+      "valor_esperado": "2027-03-21"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "$ 13.133.458,09",
+      "valor_esperado": "13133458.09"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-04",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "$",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Técnica Andina de Equipos S.A.",
+      "valor_esperado": "Técnica Andina de Equipos S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641009-7",
+      "valor_esperado": "30-98641009-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": null,
+      "localizador": null,
+      "modo_localizacion": null,
+      "presente": false,
+      "representacion": null,
+      "valor_esperado": null
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "Vigencia: desde",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "01/07/26",
+      "valor_esperado": "2026-07-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "hasta",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30/06/27",
+      "valor_esperado": "2027-06-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "Precio: USD",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "15.387,28",
+      "valor_esperado": "15387.28"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-05",
+      "etiqueta": "Precio:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Control y Medición Bahía Norte S.R.L.",
+      "valor_esperado": "Control y Medición Bahía Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641010-0",
+      "valor_esperado": "30-98641010-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "Fecha de firma:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "19/04/26",
+      "valor_esperado": "2026-04-19"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "Vigencia: desde",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "19/04/26",
+      "valor_esperado": "2026-04-19"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "hasta",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "18/04/27",
+      "valor_esperado": "2027-04-18"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "Precio: ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "2.962.918,98",
+      "valor_esperado": "2962918.98"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-06",
+      "etiqueta": "Precio:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "en adelante el Comprador, y",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Asistencia Técnica Sierra Chica S.A.",
+      "valor_esperado": "Asistencia Técnica Sierra Chica S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410119",
+      "valor_esperado": "30-98641011-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "En Buenos Aires, el",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "5 de agosto de 2026",
+      "valor_esperado": "2026-08-05"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "rige desde el",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "10 de agosto de 2026",
+      "valor_esperado": "2026-08-10"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "hasta el",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "9 de agosto de 2027",
+      "valor_esperado": "2027-08-09"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "El precio total es de",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "20.930.619,88",
+      "valor_esperado": "20930619.88"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-07",
+      "etiqueta": "El precio total es de 20.930.619,88",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "en adelante el Comprador, y",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Equipamiento Científico Delta Paraná S.R.L.",
+      "valor_esperado": "Equipamiento Científico Delta Paraná S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410127",
+      "valor_esperado": "30-98641012-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "En Buenos Aires, el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "8 de enero de 2026",
+      "valor_esperado": "2026-01-08"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "rige desde el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "9 de enero de 2026",
+      "valor_esperado": "2026-01-09"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "hasta el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "8 de enero de 2028",
+      "valor_esperado": "2028-01-08"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "El precio total es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "21.348.120,01",
+      "valor_esperado": "21348120.01"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-08",
+      "etiqueta": "El precio total es de 21.348.120,01",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios de Laboratorio Cerro Azul S.A.",
+      "valor_esperado": "Servicios de Laboratorio Cerro Azul S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641013-5",
+      "valor_esperado": "30-98641013-5"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "Fecha de firma:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "01/05/26",
+      "valor_esperado": "2026-05-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "Vigencia: desde",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "01/05/26",
+      "valor_esperado": "2026-05-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "hasta",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30/04/27",
+      "valor_esperado": "2027-04-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "Precio: ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "9.681.580,07",
+      "valor_esperado": "9681580.07"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-09",
+      "etiqueta": "Precio:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "en adelante el Comprador, y",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410011",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "En Buenos Aires, el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "31 de mayo de 2026",
+      "valor_esperado": "2026-05-31"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "rige desde el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "31 de mayo de 2026",
+      "valor_esperado": "2026-05-31"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "hasta el",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30 de mayo de 2028",
+      "valor_esperado": "2028-05-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "El precio total es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "7.754.419,00",
+      "valor_esperado": "7754419.00"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-CTR-10",
+      "etiqueta": "El precio total es de 7.754.419,00",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Calibra Mesopotamia S.R.L.",
+      "valor_esperado": "Calibra Mesopotamia S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641014-3",
+      "valor_esperado": "30-98641014-3"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Fecha de celebración",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "06/05/2026",
+      "valor_esperado": "2026-05-06"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Inicio de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "21/05/2026",
+      "valor_esperado": "2026-05-21"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Fin de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "20/05/2027",
+      "valor_esperado": "2027-05-20"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Precio total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "45.393,02",
+      "valor_esperado": "45393.02"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-CTR-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Talleres de Precisión Valle Medio S.A.",
+      "valor_esperado": "Talleres de Precisión Valle Medio S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410151",
+      "valor_esperado": "30-98641015-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Celebrado el:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "16-04-2026",
+      "valor_esperado": "2026-04-16"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Inicio de vigencia:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "16-04-2026",
+      "valor_esperado": "2026-04-16"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Finalización:",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "15-04-2028",
+      "valor_esperado": "2028-04-15"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 13.488,07",
+      "valor_esperado": "13488.07"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-CTR-02",
+      "etiqueta": "Honorarios totales:",
+      "localizador": {
+        "indice": 9,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Instrumentos Puna Austral S.R.L.",
+      "valor_esperado": "Instrumentos Puna Austral S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641017-8",
+      "valor_esperado": "30-98641017-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_celebracion",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Fecha de celebración",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "02/06/2026",
+      "valor_esperado": "2026-06-02"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_desde",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Inicio de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "02/06/2026",
+      "valor_esperado": "2026-06-02"
+    },
+    {
+      "aplicable": true,
+      "campo": "vigencia_hasta",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Fin de vigencia",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "01/06/2028",
+      "valor_esperado": "2028-06-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "monto_total",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Precio total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "21.487.670,70",
+      "valor_esperado": "21487670.70"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-CTR-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "PRES-2026-13459",
+      "valor_esperado": "PRES-2026-13459"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "06/09/2026",
+      "valor_esperado": "2026-09-06"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641003-8",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "1.165.068,08",
+      "valor_esperado": "1165068.08"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Cotización 47035",
+      "valor_esperado": "Cotización 47035"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "25-06-2026",
+      "valor_esperado": "2026-06-25"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410046",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€ 801,13",
+      "valor_esperado": "801.13"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "PRES-2026-67059",
+      "valor_esperado": "PRES-2026-67059"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "16/03/2026",
+      "valor_esperado": "2026-03-16"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641004-6",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "2.461.923,75",
+      "valor_esperado": "2461923.75"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Cotización 79453",
+      "valor_esperado": "Cotización 79453"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "28-02-2026",
+      "valor_esperado": "2026-02-28"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410054",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 899,29",
+      "valor_esperado": "899.29"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": "Presupuesto Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "P-068237",
+      "valor_esperado": "P-068237"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": null,
+      "localizador": null,
+      "modo_localizacion": null,
+      "presente": false,
+      "representacion": null,
+      "valor_esperado": null
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": "Cotiza:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Mantenimiento Integral Pampa Alta S.R.L.",
+      "valor_esperado": "Mantenimiento Integral Pampa Alta S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641006-2",
+      "valor_esperado": "30-98641006-2"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "1.401.915,19",
+      "valor_esperado": "1401915.19"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-05",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "Presupuesto Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "P-052003",
+      "valor_esperado": "P-052003"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "04/06/26",
+      "valor_esperado": "2026-06-04"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "Cotiza:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641001-1",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "3.699.990,10",
+      "valor_esperado": "3699990.10"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-06",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "Ref.: Propuesta comercial N.º",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CT/71868/26",
+      "valor_esperado": "CT/71868/26"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "indice": 2,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "4 de mayo de 2026",
+      "valor_esperado": "2026-05-04"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "Por",
+      "localizador": {
+        "indice": 15,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Laboratorios Ensayar Tandil S.A.",
+      "valor_esperado": "Laboratorios Ensayar Tandil S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "indice": 16,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410070",
+      "valor_esperado": "30-98641007-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "El importe total de la propuesta es de",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "308.861,19",
+      "valor_esperado": "308861.19"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-07",
+      "etiqueta": "El importe total de la propuesta es de 308.861,19",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "Ref.: Presupuesto N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CT/84220/26",
+      "valor_esperado": "CT/84220/26"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "18 de marzo de 2026",
+      "valor_esperado": "2026-03-18"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "Por",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Soluciones Instrumentales Río Dulce S.R.L.",
+      "valor_esperado": "Soluciones Instrumentales Río Dulce S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410089",
+      "valor_esperado": "30-98641008-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "El importe total de la propuesta es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "3.103.042,56",
+      "valor_esperado": "3103042.56"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-08",
+      "etiqueta": "El importe total de la propuesta es de 3.103.042,56",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "Presupuesto Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "P-015615",
+      "valor_esperado": "P-015615"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "23/04/26",
+      "valor_esperado": "2026-04-23"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "Cotiza:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Técnica Andina de Equipos S.A.",
+      "valor_esperado": "Técnica Andina de Equipos S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641009-7",
+      "valor_esperado": "30-98641009-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "234.188,44",
+      "valor_esperado": "234188.44"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-09",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "Ref.: Presupuesto N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CT/40980/26",
+      "valor_esperado": "CT/40980/26"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "17 de enero de 2026",
+      "valor_esperado": "2026-01-17"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "Por",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Control y Medición Bahía Norte S.R.L.",
+      "valor_esperado": "Control y Medición Bahía Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410100",
+      "valor_esperado": "30-98641010-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "El importe total de la propuesta es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "1.631,72",
+      "valor_esperado": "1631.72"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-PRE-10",
+      "etiqueta": "El importe total de la propuesta es de 1.631,72",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "euros",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "PRES-2026-52210",
+      "valor_esperado": "PRES-2026-52210"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "26/02/2026",
+      "valor_esperado": "2026-02-26"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Técnicos Asociados Laguna Brava S.A.",
+      "valor_esperado": "Técnicos Asociados Laguna Brava S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641018-6",
+      "valor_esperado": "30-98641018-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "5.785.023,11",
+      "valor_esperado": "5785023.11"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-PRE-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Cotización 99892",
+      "valor_esperado": "Cotización 99892"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "28-02-2026",
+      "valor_esperado": "2026-02-28"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrología Integral Tres Arroyos S.R.L.",
+      "valor_esperado": "Metrología Integral Tres Arroyos S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410194",
+      "valor_esperado": "30-98641019-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 21.367,50",
+      "valor_esperado": "21367.50"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-PRE-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "PRES-2026-32563",
+      "valor_esperado": "PRES-2026-32563"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "09/07/2026",
+      "valor_esperado": "2026-07-09"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Servicios Analíticos Monte Grande Sur S.A.",
+      "valor_esperado": "Servicios Analíticos Monte Grande Sur S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641020-8",
+      "valor_esperado": "30-98641020-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "5.050,89",
+      "valor_esperado": "5050.89"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-PRE-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "OC 4500072485",
+      "valor_esperado": "OC 4500072485"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "14/06/2026",
+      "valor_esperado": "2026-06-14"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641001-1",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "3.699.990,10",
+      "valor_esperado": "3699990.10"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "OC-2026-87055",
+      "valor_esperado": "OC-2026-87055"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "07-03-2026",
+      "valor_esperado": "2026-03-07"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410038",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 21.297,48",
+      "valor_esperado": "21297.48"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "OC 4500035106",
+      "valor_esperado": "OC 4500035106"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30/08/2026",
+      "valor_esperado": "2026-08-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Asistencia Técnica Sierra Chica S.A.",
+      "valor_esperado": "Asistencia Técnica Sierra Chica S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641011-9",
+      "valor_esperado": "30-98641011-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "9.282,19",
+      "valor_esperado": "9282.19"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "OC-2026-42476",
+      "valor_esperado": "OC-2026-42476"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "06-05-2026",
+      "valor_esperado": "2026-05-06"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410054",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€ 2.242,86",
+      "valor_esperado": "2242.86"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": "Pedido de compra Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00086025",
+      "valor_esperado": "00086025"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": null,
+      "localizador": null,
+      "modo_localizacion": null,
+      "presente": false,
+      "representacion": null,
+      "valor_esperado": null
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": "Proveedor adjudicado:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Equipamiento Científico Delta Paraná S.R.L.",
+      "valor_esperado": "Equipamiento Científico Delta Paraná S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641012-7",
+      "valor_esperado": "30-98641012-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": "Total USD",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "24.273,83",
+      "valor_esperado": "24273.83"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-05",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "Pedido de compra Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00028770",
+      "valor_esperado": "00028770"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "28/03/26",
+      "valor_esperado": "2026-03-28"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "Proveedor adjudicado:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641004-6",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "2.461.923,75",
+      "valor_esperado": "2461923.75"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-06",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "Ref.: Pedido de servicios N.º",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "55372/2026",
+      "valor_esperado": "55372/2026"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "indice": 2,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "8 de junio de 2026",
+      "valor_esperado": "2026-06-08"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "Señores",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios de Laboratorio Cerro Azul S.A.",
+      "valor_esperado": "Servicios de Laboratorio Cerro Azul S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410135",
+      "valor_esperado": "30-98641013-5"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "El importe total del pedido es de",
+      "localizador": {
+        "indice": 12,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "495.193,92",
+      "valor_esperado": "495193.92"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-07",
+      "etiqueta": "El importe total del pedido es de 495.193,92",
+      "localizador": {
+        "indice": 12,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "Ref.: Orden de compra N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "OC/19121/2026",
+      "valor_esperado": "OC/19121/2026"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30 de julio de 2026",
+      "valor_esperado": "2026-07-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "Señores",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410011",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "El importe total de esta orden es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "773.706,10",
+      "valor_esperado": "773706.10"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-08",
+      "etiqueta": "El importe total de esta orden es de 773.706,10",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "Pedido de compra Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00010701",
+      "valor_esperado": "00010701"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "19/05/26",
+      "valor_esperado": "2026-05-19"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "Proveedor adjudicado:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641003-8",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "410.957,91",
+      "valor_esperado": "410957.91"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-09",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "Ref.: Orden de compra N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "OC/94217/2026",
+      "valor_esperado": "OC/94217/2026"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "31 de marzo de 2026",
+      "valor_esperado": "2026-03-31"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "Señores",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410046",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "El importe total de esta orden es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "14.632,03",
+      "valor_esperado": "14632.03"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-OC-10",
+      "etiqueta": "El importe total de esta orden es de 14.632,03",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "dólares estadounidenses",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "OC 4500075469",
+      "valor_esperado": "OC 4500075469"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "25/08/2026",
+      "valor_esperado": "2026-08-25"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Calibra Mesopotamia S.R.L.",
+      "valor_esperado": "Calibra Mesopotamia S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641014-3",
+      "valor_esperado": "30-98641014-3"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "277.413,81",
+      "valor_esperado": "277413.81"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-OC-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "OC-2026-83852",
+      "valor_esperado": "OC-2026-83852"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "27-06-2026",
+      "valor_esperado": "2026-06-27"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "Razón social del proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Talleres de Precisión Valle Medio S.A.",
+      "valor_esperado": "Talleres de Precisión Valle Medio S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410151",
+      "valor_esperado": "30-98641015-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "$ 328.741,26",
+      "valor_esperado": "328741.26"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-OC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "$",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "OC 4500099925",
+      "valor_esperado": "OC 4500099925"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "04/03/2026",
+      "valor_esperado": "2026-03-04"
+    },
+    {
+      "aplicable": true,
+      "campo": "proveedor",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "Proveedor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Instrumentos Puna Austral S.R.L.",
+      "valor_esperado": "Instrumentos Puna Austral S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_proveedor",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641017-8",
+      "valor_esperado": "30-98641017-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "5.353,73",
+      "valor_esperado": "5353.73"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-OC-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "EUR",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "FC 0003-00054714",
+      "valor_esperado": "FC 0003-00054714"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "Fecha de emisión",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "19/06/2026",
+      "valor_esperado": "2026-06-19"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "Emisor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641005-4",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "336.119,04",
+      "valor_esperado": "336119.04"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "0004-00046976",
+      "valor_esperado": "0004-00046976"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "Fecha de emisión:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "16-03-2026",
+      "valor_esperado": "2026-03-16"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "Razón social:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410038",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 21.297,48",
+      "valor_esperado": "21297.48"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "FC 0003-00066563",
+      "valor_esperado": "FC 0003-00066563"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "Fecha de emisión",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "13/04/2026",
+      "valor_esperado": "2026-04-13"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "Emisor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641004-6",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "2.658.877,65",
+      "valor_esperado": "2658877.65"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "0004-00013478",
+      "valor_esperado": "0004-00013478"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "Fecha de emisión:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "17-05-2026",
+      "valor_esperado": "2026-05-17"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "Razón social:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410054",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€ 2.242,86",
+      "valor_esperado": "2242.86"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": "Factura Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "FAC-032815",
+      "valor_esperado": "FAC-032815"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": null,
+      "localizador": null,
+      "modo_localizacion": null,
+      "presente": false,
+      "representacion": null,
+      "valor_esperado": null
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": "Emitido por:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Mantenimiento Integral Pampa Alta S.R.L.",
+      "valor_esperado": "Mantenimiento Integral Pampa Alta S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641006-2",
+      "valor_esperado": "30-98641006-2"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": "Total USD",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "3.000,23",
+      "valor_esperado": "3000.23"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-05",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "Factura Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "FAC-008076",
+      "valor_esperado": "FAC-008076"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "01/06/26",
+      "valor_esperado": "2026-06-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "Emitido por:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Laboratorios Ensayar Tandil S.A.",
+      "valor_esperado": "Laboratorios Ensayar Tandil S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641007-0",
+      "valor_esperado": "30-98641007-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "822.147,23",
+      "valor_esperado": "822147.23"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-06",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "Ref.: Factura N.º",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00002-00052952",
+      "valor_esperado": "00002-00052952"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "indice": 2,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "26 de junio de 2026",
+      "valor_esperado": "2026-06-26"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "Por",
+      "localizador": {
+        "indice": 13,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "indice": 14,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410011",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "El importe total a abonar es de",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "3.699.990,10",
+      "valor_esperado": "3699990.10"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-07",
+      "etiqueta": "El importe total a abonar es de 3.699.990,10",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "Ref.: Liquidación de servicios N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00002-00086913",
+      "valor_esperado": "00002-00086913"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "24 de junio de 2026",
+      "valor_esperado": "2026-06-24"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "Por",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Soluciones Instrumentales Río Dulce S.R.L.",
+      "valor_esperado": "Soluciones Instrumentales Río Dulce S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410089",
+      "valor_esperado": "30-98641008-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "El importe total liquidado es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "1.592.763,57",
+      "valor_esperado": "1592763.57"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-08",
+      "etiqueta": "El importe total liquidado es de 1.592.763,57",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "Factura Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "FAC-045046",
+      "valor_esperado": "FAC-045046"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "03/09/26",
+      "valor_esperado": "2026-09-03"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "Emitido por:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Técnica Andina de Equipos S.A.",
+      "valor_esperado": "Técnica Andina de Equipos S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641009-7",
+      "valor_esperado": "30-98641009-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "Total ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "1.260.396,90",
+      "valor_esperado": "1260396.90"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-09",
+      "etiqueta": "Total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "Ref.: Factura N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "00002-00067015",
+      "valor_esperado": "00002-00067015"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "11 de marzo de 2026",
+      "valor_esperado": "2026-03-11"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "Por",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Control y Medición Bahía Norte S.R.L.",
+      "valor_esperado": "Control y Medición Bahía Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410100",
+      "valor_esperado": "30-98641010-0"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "El importe total a abonar es de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "2.853.125,00",
+      "valor_esperado": "2853125.00"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-FAC-10",
+      "etiqueta": "El importe total a abonar es de 2.853.125,00",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "FC 0003-00036649",
+      "valor_esperado": "FC 0003-00036649"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "Fecha de emisión",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "19/06/2026",
+      "valor_esperado": "2026-06-19"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "Emisor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Técnicos Asociados Laguna Brava S.A.",
+      "valor_esperado": "Técnicos Asociados Laguna Brava S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641018-6",
+      "valor_esperado": "30-98641018-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "2.258.178,48",
+      "valor_esperado": "2258178.48"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-FAC-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "0004-00081627",
+      "valor_esperado": "0004-00081627"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "Fecha de emisión:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "08-04-2026",
+      "valor_esperado": "2026-04-08"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "Razón social:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrología Integral Tres Arroyos S.R.L.",
+      "valor_esperado": "Metrología Integral Tres Arroyos S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410194",
+      "valor_esperado": "30-98641019-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€ 3.666,91",
+      "valor_esperado": "3666.91"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-FAC-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "FC 0003-00056108",
+      "valor_esperado": "FC 0003-00056108"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha_emision",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "Fecha de emisión",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "01/04/2026",
+      "valor_esperado": "2026-04-01"
+    },
+    {
+      "aplicable": true,
+      "campo": "emisor",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "Emisor",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Servicios Analíticos Monte Grande Sur S.A.",
+      "valor_esperado": "Servicios Analíticos Monte Grande Sur S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_emisor",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641020-8",
+      "valor_esperado": "30-98641020-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe_total",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "Importe total",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "24.903,87",
+      "valor_esperado": "24903.87"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-FAC-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "EUR",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "REC-002080",
+      "valor_esperado": "REC-002080"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "08/07/2026",
+      "valor_esperado": "2026-07-08"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641001-1",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "Importe recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "3.699.990,10",
+      "valor_esperado": "3699990.10"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CR-2026-58675",
+      "valor_esperado": "CR-2026-58675"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "13-05-2026",
+      "valor_esperado": "2026-05-13"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Asistencia Técnica Sierra Chica S.A.",
+      "valor_esperado": "Asistencia Técnica Sierra Chica S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410119",
+      "valor_esperado": "30-98641011-9"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 1.049,41",
+      "valor_esperado": "1049.41"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "REC-010535",
+      "valor_esperado": "REC-010535"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "09/09/2026",
+      "valor_esperado": "2026-09-09"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Equipamiento Científico Delta Paraná S.R.L.",
+      "valor_esperado": "Equipamiento Científico Delta Paraná S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641012-7",
+      "valor_esperado": "30-98641012-7"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "Importe recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "3.407.805,40",
+      "valor_esperado": "3407805.40"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CR-2026-57497",
+      "valor_esperado": "CR-2026-57497"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "03-04-2026",
+      "valor_esperado": "2026-04-03"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios de Laboratorio Cerro Azul S.A.",
+      "valor_esperado": "Servicios de Laboratorio Cerro Azul S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410135",
+      "valor_esperado": "30-98641013-5"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S 6.160,68",
+      "valor_esperado": "6160.68"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-04",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "U$S",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": "Acta de recepción Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "AR-77309",
+      "valor_esperado": "AR-77309"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": null,
+      "localizador": null,
+      "modo_localizacion": null,
+      "presente": false,
+      "representacion": null,
+      "valor_esperado": null
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Calibraciones del Litoral Norte S.R.L.",
+      "valor_esperado": "Calibraciones del Litoral Norte S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641001-1",
+      "valor_esperado": "30-98641001-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": "Total recibido ARS",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "7.530.200,45",
+      "valor_esperado": "7530200.45"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-05",
+      "etiqueta": "Total recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "Acta de recepción Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "AR-62400",
+      "valor_esperado": "AR-62400"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "22/07/26",
+      "valor_esperado": "2026-07-22"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Servicios Técnicos Arroyo Seco S.A.",
+      "valor_esperado": "Servicios Técnicos Arroyo Seco S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641003-8",
+      "valor_esperado": "30-98641003-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "Total recibido ARS",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "623.483,41",
+      "valor_esperado": "623483.41"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-06",
+      "etiqueta": "Total recibido",
+      "localizador": {
+        "pagina": 2,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "Ref.: Constancia de conformidad N.º",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CC-49855",
+      "valor_esperado": "CC-49855"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "indice": 2,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "20 de febrero de 2026",
+      "valor_esperado": "2026-02-20"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "Señores",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Metrolab Patagonia Sur S.R.L.",
+      "valor_esperado": "Metrolab Patagonia Sur S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "indice": 5,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410046",
+      "valor_esperado": "30-98641004-6"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "Lo recibido corresponde a un importe total de",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "16.867,24",
+      "valor_esperado": "16867.24"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-07",
+      "etiqueta": "Lo recibido corresponde a un importe total de 16.867,24",
+      "localizador": {
+        "indice": 8,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "dólares estadounidenses",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "Ref.: Constancia de conformidad N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CC-69861",
+      "valor_esperado": "CC-69861"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30 de mayo de 2026",
+      "valor_esperado": "2026-05-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "Señores",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410054",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "Lo recibido corresponde a un importe total de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "2.242,86",
+      "valor_esperado": "2242.86"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-08",
+      "etiqueta": "Lo recibido corresponde a un importe total de 2.242,86",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "euros",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "Acta de recepción Nro.",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "AR-80834",
+      "valor_esperado": "AR-80834"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30/01/26",
+      "valor_esperado": "2026-01-30"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "Prestador:",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Ingeniería Cuenca del Salado S.A.",
+      "valor_esperado": "Ingeniería Cuenca del Salado S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30-98641005-4",
+      "valor_esperado": "30-98641005-4"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "Total recibido USD",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "14.903,06",
+      "valor_esperado": "14903.06"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-09",
+      "etiqueta": "Total recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "Ref.: Constancia de conformidad N.º",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CC-39139",
+      "valor_esperado": "CC-39139"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "Buenos Aires,",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "26 de agosto de 2026",
+      "valor_esperado": "2026-08-26"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "Señores",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Mantenimiento Integral Pampa Alta S.R.L.",
+      "valor_esperado": "Mantenimiento Integral Pampa Alta S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "CUIT",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410062",
+      "valor_esperado": "30-98641006-2"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "Lo recibido corresponde a un importe total de",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "244.406,03",
+      "valor_esperado": "244406.03"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-M-COM-10",
+      "etiqueta": "Lo recibido corresponde a un importe total de 244.406,03",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "pesos argentinos",
+      "valor_esperado": "ARS"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "REC-017820",
+      "valor_esperado": "REC-017820"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "10/09/2026",
+      "valor_esperado": "2026-09-10"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Calibra Mesopotamia S.R.L.",
+      "valor_esperado": "Calibra Mesopotamia S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641014-3",
+      "valor_esperado": "30-98641014-3"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "Importe recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "22.251,80",
+      "valor_esperado": "22251.80"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-COM-01",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "USD",
+      "valor_esperado": "USD"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "N.º:",
+      "localizador": {
+        "indice": 3,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "CR-2026-54978",
+      "valor_esperado": "CR-2026-54978"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "Emitido el:",
+      "localizador": {
+        "indice": 4,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "14-02-2026",
+      "valor_esperado": "2026-02-14"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "Proveedor:",
+      "localizador": {
+        "indice": 6,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "Talleres de Precisión Valle Medio S.A.",
+      "valor_esperado": "Talleres de Precisión Valle Medio S.A."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "C.U.I.T. N.º:",
+      "localizador": {
+        "indice": 7,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "30986410151",
+      "valor_esperado": "30-98641015-1"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€ 5.657,50",
+      "valor_esperado": "5657.50"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-COM-02",
+      "etiqueta": "Total:",
+      "localizador": {
+        "indice": 11,
+        "parte": "word/document.xml",
+        "tipo": "parrafo"
+      },
+      "modo_localizacion": "contiguo",
+      "presente": true,
+      "representacion": "€",
+      "valor_esperado": "EUR"
+    },
+    {
+      "aplicable": true,
+      "campo": "numero",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "Número",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "REC-030334",
+      "valor_esperado": "REC-030334"
+    },
+    {
+      "aplicable": true,
+      "campo": "fecha",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "Fecha",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "16/06/2026",
+      "valor_esperado": "2026-06-16"
+    },
+    {
+      "aplicable": true,
+      "campo": "contraparte",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "Prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "Instrumentos Puna Austral S.R.L.",
+      "valor_esperado": "Instrumentos Puna Austral S.R.L."
+    },
+    {
+      "aplicable": true,
+      "campo": "cuit_contraparte",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "CUIT del prestador",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "30-98641017-8",
+      "valor_esperado": "30-98641017-8"
+    },
+    {
+      "aplicable": true,
+      "campo": "importe",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "Importe recibido",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "1.212.562,74",
+      "valor_esperado": "1212562.74"
+    },
+    {
+      "aplicable": true,
+      "campo": "moneda",
+      "doc_id": "E90-A-COM-03",
+      "etiqueta": "Moneda",
+      "localizador": {
+        "pagina": 1,
+        "tipo": "pagina"
+      },
+      "modo_localizacion": "tabla",
+      "presente": true,
+      "representacion": "ARS",
+      "valor_esperado": "ARS"
+    }
+  ]
+}
