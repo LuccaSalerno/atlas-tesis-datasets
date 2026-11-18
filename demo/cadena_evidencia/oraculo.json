@@ -1,0 +1,139 @@
+{
+  "id": "cadena_evidencia",
+  "registro_cuit": {
+    "numero": "30-96472518-3",
+    "modulo_11": "PASA",
+    "consulta_oficial_ARCA": "SIN_INSCRIPCION: consulta manual del equipo en ARCA el 23/10/2026, el CUIT no existe",
+    "advertencia": "La consulta no garantiza al 100 % la inexistencia de una asignación futura (PD-07). Uso exclusivo como dato de prueba."
+  },
+  "fuente_reproducible": "generadores/cadena_evidencia.py; DOCX exportados a PDF digital",
+  "documentos": {
+    "C-v1": {
+      "clase": "contrato",
+      "numero": "CTR-ATLAS-2026-001",
+      "contraparte": "Servicios Integrales del Sur S.A.",
+      "cuit_contraparte": "30-96472518-3",
+      "fecha_celebracion": "2026-02-20",
+      "vigencia_desde": "2026-03-01",
+      "vigencia_hasta": "2027-02-28",
+      "monto_total": "1250000.00",
+      "moneda": "ARS",
+      "incluye_iva": true,
+      "ubicacion_campos": {
+        "contraparte": 1,
+        "cuit_contraparte": 1,
+        "fecha_celebracion": 1,
+        "monto_total": 5,
+        "moneda": 5,
+        "vigencia_desde": 6,
+        "vigencia_hasta": 6
+      }
+    },
+    "O-v1": {
+      "clase": "orden_compra",
+      "fecha_emision": "2027-03-15",
+      "cuit_proveedor": "30-96472518-3",
+      "total": "1250000.00",
+      "moneda": "ARS",
+      "incluye_iva": true,
+      "numero": "OC-2026-0042",
+      "razon_social": "Servicios Integrales del Sur S.A."
+    },
+    "O-v2": {
+      "clase": "orden_compra",
+      "fecha_emision": "2026-09-15",
+      "cuit_proveedor": "30-96472518-3",
+      "total": "1250000.00",
+      "moneda": "ARS",
+      "incluye_iva": true,
+      "version_anterior": "O-v1",
+      "numero": "OC-2026-0042",
+      "razon_social": "Servicios Integrales del Sur S.A."
+    },
+    "F-v1": {
+      "clase": "factura_sintetica_no_fiscal",
+      "fecha_emision": "2026-09-30",
+      "cuit_emisor": "30-96472518-3",
+      "total": "1312500.00",
+      "moneda": "ARS",
+      "incluye_iva": true,
+      "numero": "FC-A-0001-00000123",
+      "razon_social": "Servicios Integrales del Sur S.A."
+    },
+    "F-v2": {
+      "clase": "factura_sintetica_no_fiscal",
+      "fecha_emision": "2026-09-30",
+      "cuit_emisor": "30-96472518-3",
+      "total": "1250000.00",
+      "moneda": "ARS",
+      "incluye_iva": true,
+      "version_anterior": "F-v1",
+      "numero": "FC-A-0001-00000123",
+      "razon_social": "Servicios Integrales del Sur S.A."
+    }
+  },
+  "archivos_pdf": {
+    "C-v1_Contrato_Mantenimiento_ATLAS.pdf": {
+      "paginas": 10,
+      "texto_extraible": true
+    },
+    "F-v1_Factura.pdf": {
+      "paginas": 1,
+      "texto_extraible": true
+    },
+    "F-v2_Factura.pdf": {
+      "paginas": 1,
+      "texto_extraible": true
+    },
+    "O-v1_Orden_Compra.pdf": {
+      "paginas": 1,
+      "texto_extraible": true
+    },
+    "O-v2_Orden_Compra.pdf": {
+      "paginas": 1,
+      "texto_extraible": true
+    }
+  },
+  "reglas": {
+    "R1": "cuit factura emisor = cuit orden proveedor",
+    "R2": "cuit orden proveedor = cuit contrato contraparte",
+    "R3": "fecha emision OC dentro de vigencia contrato, extremos incluidos",
+    "R4": "total factura <= total OC y misma moneda, IVA incluido"
+  },
+  "conjuntos_esperados": [
+    {
+      "versiones": [
+        "C-v1",
+        "O-v1",
+        "F-v2"
+      ],
+      "R1": "cumple",
+      "R2": "cumple",
+      "R3": "advertencia",
+      "R4": "cumple"
+    },
+    {
+      "versiones": [
+        "C-v1",
+        "O-v2",
+        "F-v1"
+      ],
+      "R1": "cumple",
+      "R2": "cumple",
+      "R3": "cumple",
+      "R4": "advertencia"
+    },
+    {
+      "versiones": [
+        "C-v1",
+        "O-v2",
+        "F-v2"
+      ],
+      "R1": "cumple",
+      "R2": "cumple",
+      "R3": "cumple",
+      "R4": "cumple"
+    }
+  ],
+  "criterios": "Los oraculos se fijan antes de ejecutar. Los valores de IA deben confirmarse o corregirse por humano antes de probar reglas. No hay resultados de ejecucion EVD-01."
+}
